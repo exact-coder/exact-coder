@@ -4,7 +4,7 @@
 ### Web Developer && App Developer
 
 
-Hi There, I am a Full Stack developer who is always passionate about making something new. I am doing some unique projects and also cloning some reputed websites like Netflix, Youtube, and so on. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Coding is not only my profession but also my love. I believe in a quote by Winston Churchill who says that “I am always ready to learn although I do not always like being taught.”❤❤
+Hi There, I am a full-stack developer who is always passionate about making something new. I am doing some unique projects and also cloning some reputed websites like Netflix, YouTube, and so on. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Coding is not only my profession but also my love. I believe in a quote by Winston Churchill who says “I am always ready to learn although I do not always like being taught.”❤❤
 
 Skills: 
 
@@ -33,16 +33,3 @@ Skills:
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmingbees)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=programmingbees&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=programmingbees)  
-
-![GitHub metrics](https://metrics.lecoq.io/programmingbees)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=programmingbees)  
-
-![Profile views](https://gpvc.arturio.dev/programmingbees)  
-
-<!--generate url https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
