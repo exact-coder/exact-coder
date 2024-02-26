@@ -1,4 +1,4 @@
-![Web Developer && App Developer](![Web Developer && App Developer](https://media.licdn.com/dms/image/C5603AQFn94KYgqjmuA/profile-displayphoto-shrink_800_800/0/1660146006110?e=1707955200&v=beta&t=7f3dAXWW9X0nA6T8jQwklm6jmw4PBThp7Ca8A6KdfiI)
+![Web Developer && App Developer](![Web Developer && App Developer](https://media.licdn.com/dms/image/C5603AQFn94KYgqjmuA/profile-displayphoto-shrink_400_400/0/1660146006110?e=1714608000&v=beta&t=hGKtjhSOBFYrOcHSIEpIDG_xV4BQ_DZN30SwNxazvC0)
 
 ## Hi there 👋, This is Jahid Hasan
 ### Web Developer && App Developer
