@@ -1,4 +1,4 @@
-![Web Developer && App Developer](![Web Developer && App Developer](https://media.licdn.com/dms/image/C5603AQFn94KYgqjmuA/profile-displayphoto-shrink_400_400/0/1660146006110?e=1723680000&v=beta&t=9SGBijG_ImTxCOpy0Wh2hMTbhKPK1GedmWwpmWI8M_Y)
+![Web Developer && App Developer](![Web Developer && App Developer](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)
 
 ## Hi there 👋, This is Jahid Hasan
 ### Web Developer && App Developer
