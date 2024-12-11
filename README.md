@@ -8,19 +8,19 @@ Hi There, I am a full-stack developer who is always passionate about making some
 
 Skills: 
 
-✅ JAVASCRIPT 
+  ✅ JAVASCRIPT 
 
-✅ REACT JS 
+  ✅ REACT JS 
 
-✅ PYTHON
+  ✅ PYTHON
 
-✅ FASTAPI
+  ✅ FASTAPI
 
-✅ DJANGO
+  ✅ DJANGO
 
-✅ NODE JS 
+  ✅ NODE JS 
 
-✅ FLUTTER 
+  ✅ FLUTTER 
 
 
 
