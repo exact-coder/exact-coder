@@ -14,6 +14,8 @@ Skills:
 
 ✅ PYTHON
 
+✅ FASTAPI
+
 ✅ DJANGO
 
 ✅ NODE JS 
