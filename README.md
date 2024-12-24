@@ -14,13 +14,14 @@ Skills:
 
   ✅ PYTHON
 
+  ✅ DJANGO
+
   ✅ FASTAPI
 
-  ✅ DJANGO
+  ✅ FLUTTER 
 
   ✅ NODE JS 
 
-  ✅ FLUTTER 
 
 
 
