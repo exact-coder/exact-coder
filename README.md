@@ -22,6 +22,9 @@ Skills:
 
   ✅ NODE JS 
 
+  ✅ UNITY ENGINE
+
+  ✅ C#
 
 
 
