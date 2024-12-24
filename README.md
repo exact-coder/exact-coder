@@ -7,14 +7,14 @@
 Hi There, I am a full-stack developer who is always passionate about making something new. I am doing some unique projects and also cloning some reputed websites like Netflix, YouTube, and so on. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Coding is not only my profession but also my love. I believe in a quote by Winston Churchill who says “I am always ready to learn although I do not always like being taught.”❤❤
 
 Skills: 
+  
+  ✅ PYTHON
+
+  ✅ DJANGO
 
   ✅ JAVASCRIPT 
 
   ✅ REACT JS 
-
-  ✅ PYTHON
-
-  ✅ DJANGO
 
   ✅ FASTAPI
 
