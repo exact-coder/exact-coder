@@ -1,4 +1,4 @@
-![Web Developer && App Developer](![Web Developer && App Developer](https://media.licdn.com/dms/image/v2/D5635AQGaFjHeBbb2Cw/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1720037600222?e=1753164000&v=beta&t=Q84uw98g-g2iCaOZYJ7-yU7yB6OEqNio9ORqE25jev)
+![Web Developer && App Developer](![Web Developer && App Developer](https://media.licdn.com/dms/image/v2/D5635AQGaFjHeBbb2Cw/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1720037600222?e=1753164000&v=beta&t=Q84uw98g-g2iCaOZYJ7-yU7yB6OEqNio9ORqE25jev0)
 
 ## Hi there 👋, This is Jahid Hasan
 ### Web Developer && App Developer
@@ -28,7 +28,7 @@ Skills:
 
 
 
-- 🔭 I’m currently working on Exact Coder 
+- 🔭 I’m currently working on Zealve.com 
 - 🌱 I’m currently learning Python, JavaScript
 - 👯 I’m looking to collaborate on Exact Coder 
 - 💬 Ask me about Web Development 
